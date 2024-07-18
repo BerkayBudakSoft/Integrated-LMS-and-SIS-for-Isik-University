@@ -1,4 +1,5 @@
 Integrated LMS and SIS for My University
+
 Enhance educational processes with our Integrated LMS and SIS for the university where I study. This solution provides seamless course management, efficient student data handling, and effective communication channels, ensuring a unified and user-friendly experience for all users.
 
 The Integrated Learning Management System (LMS) and Student Information System (SIS) for the university where I study is a cutting-edge educational software solution designed to revolutionize the way academic institutions manage their educational processes. This integrated system seamlessly combines the functionalities of LMS and SIS, offering a comprehensive platform that caters to the needs of students, instructors, and administrators.
